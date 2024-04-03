@@ -1,8 +1,4 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/api/notes/[noteid]/route": "app/api/notes/[noteid]/route.js",
-  "/api/notes/route": "app/api/notes/route.js",
-  "/notedetail/[editnote]/page": "app/notedetail/[editnote]/page.js",
   "/page": "app/page.js",
   "/notedetail/page": "app/notedetail/page.js"
 }
